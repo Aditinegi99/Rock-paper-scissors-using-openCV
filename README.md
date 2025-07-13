@@ -13,13 +13,12 @@ This project is a blend of Computer Vision, Human-Computer Interaction, and clas
 ---
 
 # 🔧 Technologies Used
-
-*Python:	Core language for logic and integration
-*OpenCV:	Webcam input, image processing, overlay rendering
-*cvzone:	Easy hand detection & image overlay (on top of OpenCV)
-*MediaPipe:	Underlying model used for tracking hand landmarks
-*NumPy:	For image slicing and numerical operations
-*Canva: images	For background (bg.png) and AI hand visuals
+- Python:	Core language for logic and integration
+- OpenCV:	Webcam input, image processing, overlay rendering
+- cvzone:	Easy hand detection & image overlay (on top of OpenCV)
+- MediaPipe:	Underlying model used for tracking hand landmarks
+- NumPy:	For image slicing and numerical operations
+- Canva: images	For background (bg.png) and AI hand visuals
 
 ---
 

@@ -55,7 +55,7 @@ This project is a blend of Computer Vision, Human-Computer Interaction, and clas
 # 🧠 Behind the AI (and What's Coming)
 
 Currently, the AI uses random move selection, but here's what can be added:
--🚀 Planned Enhancements:
+- 🚀 Planned Enhancements:
 - ✅ Markov Models: To analyze and predict the player's next move based on past gestures (sequence learning).
 - ✅ Reinforcement Learning: AI learns over time by adapting to player behavior.
 - ✅ Gesture Smoothing: Avoids false detections using moving average of gestures.

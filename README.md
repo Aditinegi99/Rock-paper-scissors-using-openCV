@@ -8,23 +8,18 @@ This project is a blend of Computer Vision, Human-Computer Interaction, and clas
 
 # 🧩 Project Overview
 
--📷 Detects real-time hand gestures using a webcam
--✊✋✌️ Maps specific finger patterns to Rock, Paper, or Scissors
--🎲 AI opponent randomly selects a move
--🏆 Scores are tracked live on a custom graphical interface
--👩‍💻 Simple keyboard trigger to start game rounds ('s' key)
--💻 No buttons or clicks required — completely gesture-based!
+📷 Detects real-time hand gestures using a webcam, ✊✋✌️ Maps specific finger patterns to Rock, Paper, or Scissors, 🎲 AI opponent randomly selects a move, 🏆 Scores are tracked live on a custom graphical interface, 👩‍💻 Simple keyboard trigger to start game rounds ('s' key), 💻 No buttons or clicks required — completely gesture-based!
 
 ---
 
 # 🔧 Technologies Used
 
--Python:	Core language for logic and integration
--OpenCV:	Webcam input, image processing, overlay rendering
--cvzone:	Easy hand detection & image overlay (on top of OpenCV)
--MediaPipe:	Underlying model used for tracking hand landmarks
--NumPy:	For image slicing and numerical operations
--Canva: images	For background (bg.png) and AI hand visuals
+*Python:	Core language for logic and integration
+*OpenCV:	Webcam input, image processing, overlay rendering
+*cvzone:	Easy hand detection & image overlay (on top of OpenCV)
+*MediaPipe:	Underlying model used for tracking hand landmarks
+*NumPy:	For image slicing and numerical operations
+*Canva: images	For background (bg.png) and AI hand visuals
 
 ---
 

@@ -1,6 +1,6 @@
 # Rock-paper-scissors-using-openCV
-A real-time interactive Rock-Paper-Scissors game where the player uses hand gestures via webcam, and an AI opponent plays in return. The project is built using Python, OpenCV, and the cvzone library, which leverages MediaPipe for accurate hand detection.
 
+A real-time interactive Rock-Paper-Scissors game where the player uses hand gestures via webcam, and an AI opponent plays in return. The project is built using Python, OpenCV, and the cvzone library, which leverages MediaPipe for accurate hand detection.
 This project is a blend of Computer Vision, Human-Computer Interaction, and classic game logic. It offers an engaging, hands-free experience using gesture recognition to identify whether the player shows Rock, Paper, or Scissors.
 
 ---

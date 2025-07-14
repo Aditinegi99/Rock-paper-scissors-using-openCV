@@ -1,0 +1,3 @@
+- OpenCV – for image processing
+- cvzone – simplified hand detection via MediaPipe
+- MediaPipe – hand landmark tracking
